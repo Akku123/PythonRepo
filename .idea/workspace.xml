@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4757d79d-d90a-4f24-8fbe-c55bc692559f" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basic Programs.py" beforeDir="false" afterPath="$PROJECT_DIR$/Basic Programs.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/PythonBasics.py" beforeDir="false" afterPath="$PROJECT_DIR$/PythonBasics.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -30,7 +32,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
-  <component name="RunManager" selected="Python.Basic Programs (1)">
+  <component name="RunManager" selected="Python.PythonBasics">
     <configuration name="Basic Programs (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonTest" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -138,8 +140,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Basic Programs (1)" />
         <item itemvalue="Python.PythonBasics" />
+        <item itemvalue="Python.Basic Programs (1)" />
         <item itemvalue="Python.Basic Programs" />
         <item itemvalue="Python.Conditional Problems" />
         <item itemvalue="Python.TestFile" />
@@ -164,22 +166,22 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="95" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.680@0.0.1280.680" timestamp="1595948799427" />
-    <state width="1224" height="147" key="GridCell.Tab.0.bottom" timestamp="1596105060013">
+    <state width="1224" height="147" key="GridCell.Tab.0.bottom" timestamp="1596113171475">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1224" height="147" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1596105060013" />
-    <state width="1224" height="147" key="GridCell.Tab.0.center" timestamp="1596105060013">
+    <state width="1224" height="147" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1596113171475" />
+    <state width="1224" height="147" key="GridCell.Tab.0.center" timestamp="1596113171475">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1224" height="147" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1596105060013" />
-    <state width="1224" height="147" key="GridCell.Tab.0.left" timestamp="1596105060013">
+    <state width="1224" height="147" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1596113171475" />
+    <state width="1224" height="147" key="GridCell.Tab.0.left" timestamp="1596113171475">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1224" height="147" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1596105060013" />
-    <state width="1224" height="147" key="GridCell.Tab.0.right" timestamp="1596105060013">
+    <state width="1224" height="147" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1596113171475" />
+    <state width="1224" height="147" key="GridCell.Tab.0.right" timestamp="1596113171475">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1224" height="147" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1596105060013" />
+    <state width="1224" height="147" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1596113171475" />
     <state width="1224" height="185" key="GridCell.Tab.1.bottom" timestamp="1596036058556">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
