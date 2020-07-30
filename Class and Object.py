@@ -4,5 +4,5 @@ class car():
          self.modelname = modelname
          self.price= price
          self.cc= cc
-         
+
 

@@ -96,6 +96,7 @@ print(intersection)
 is_disjoint = a.isdisjoint(b)
 print(type(is_disjoint))
 print(is_disjoint)
+print("CHANGED")
 
 # Dictionary
 print("----------------DICTIONARY START FROM HERE-------------")
