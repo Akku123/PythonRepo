@@ -39,6 +39,7 @@ print(cube(5))
 
 g= lambda y : y*y*y
 print(g(7))
+print("change 2")
 
 a= lambda x,y:x+y
 print(a(3,7))
