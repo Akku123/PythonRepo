@@ -18,6 +18,7 @@ evenoffref(4)
 def myfun(*argv):
     for arg in argv:
      print(arg)
+    print("CHANGED in MINOR")
 
 myfun("My First","Python","Lecture",15)
 

@@ -2,6 +2,7 @@ var1 = 5
 
 
 def scope_of_var():
+
     print("inside Scopeofvar")
 
     def scope_inner():
