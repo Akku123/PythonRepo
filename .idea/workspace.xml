@@ -2,8 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4757d79d-d90a-4f24-8fbe-c55bc692559f" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/PythonTest.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/PythonTest.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Basic Programs.py" beforeDir="false" afterPath="$PROJECT_DIR$/Basic Programs.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basic Programs.py" beforeDir="false" afterPath="$PROJECT_DIR$/BasicPrograms.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Class and Object.py" beforeDir="false" afterPath="$PROJECT_DIR$/ClassandObject.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Conditional Problems.py" beforeDir="false" afterPath="$PROJECT_DIR$/ConditionalProblems.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/PythonBasics.py" beforeDir="false" afterPath="$PROJECT_DIR$/PythonBasics.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -33,7 +37,7 @@
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RunManager" selected="Python.PythonBasics">
-    <configuration name="Basic Programs (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="BasicPrograms" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonTest" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -45,7 +49,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Basic Programs.py" />
+      <option name="SCRIPT_NAME" value="D:\PythonTest\PythonTest\BasicPrograms.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -54,7 +58,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Basic Programs" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="BasicPrograms" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonTest" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -66,7 +70,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="D:\PythonTest\PythonTest\Basic Programs.py" />
+      <option name="SCRIPT_NAME" value="D:\PythonTest\PythonTest\BasicPrograms.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -75,7 +79,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Conditional Problems" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="ConditionalProblems" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonTest" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -87,7 +91,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Conditional Problems.py" />
+      <option name="SCRIPT_NAME" value="D:\PythonTest\PythonTest\ConditionalProblems.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -141,9 +145,9 @@
     <recent_temporary>
       <list>
         <item itemvalue="Python.PythonBasics" />
-        <item itemvalue="Python.Basic Programs (1)" />
-        <item itemvalue="Python.Basic Programs" />
-        <item itemvalue="Python.Conditional Problems" />
+        <item itemvalue="Python.BasicPrograms" />
+        <item itemvalue="Python.BasicPrograms" />
+        <item itemvalue="Python.ConditionalProblems" />
         <item itemvalue="Python.TestFile" />
       </list>
     </recent_temporary>
@@ -162,26 +166,34 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
+    <state x="361" y="0" key="#Basic_Programs_(1)" timestamp="1596173566720">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="361" y="0" key="#Basic_Programs_(1)/0.0.1280.680@0.0.1280.680" timestamp="1596173566720" />
     <state x="95" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1595948799427">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="95" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.680@0.0.1280.680" timestamp="1595948799427" />
-    <state width="1224" height="147" key="GridCell.Tab.0.bottom" timestamp="1596113171475">
+    <state x="420" y="95" key="FileChooserDialogImpl" timestamp="1596173484724">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1224" height="147" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1596113171475" />
-    <state width="1224" height="147" key="GridCell.Tab.0.center" timestamp="1596113171475">
+    <state x="420" y="95" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1596173484724" />
+    <state width="1224" height="147" key="GridCell.Tab.0.bottom" timestamp="1596173531235">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1224" height="147" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1596113171475" />
-    <state width="1224" height="147" key="GridCell.Tab.0.left" timestamp="1596113171475">
+    <state width="1224" height="147" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1596173531235" />
+    <state width="1224" height="147" key="GridCell.Tab.0.center" timestamp="1596173531235">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1224" height="147" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1596113171475" />
-    <state width="1224" height="147" key="GridCell.Tab.0.right" timestamp="1596113171475">
+    <state width="1224" height="147" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1596173531235" />
+    <state width="1224" height="147" key="GridCell.Tab.0.left" timestamp="1596173531235">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1224" height="147" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1596113171475" />
+    <state width="1224" height="147" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1596173531235" />
+    <state width="1224" height="147" key="GridCell.Tab.0.right" timestamp="1596173531235">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1224" height="147" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1596173531235" />
     <state width="1224" height="185" key="GridCell.Tab.1.bottom" timestamp="1596036058556">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
@@ -198,14 +210,14 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state width="1224" height="185" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" timestamp="1596036058556" />
-    <state x="142" y="0" key="SettingsEditor" timestamp="1595948234563">
+    <state x="142" y="0" key="SettingsEditor" timestamp="1596173524398">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="142" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1595948234563" />
-    <state x="336" y="164" key="com.intellij.ide.util.TipDialog" timestamp="1596108629725">
+    <state x="142" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1596173524398" />
+    <state x="336" y="164" key="com.intellij.ide.util.TipDialog" timestamp="1596173207372">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="336" y="164" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1596108629725" />
+    <state x="336" y="164" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1596173207372" />
     <state x="303" y="1" width="672" height="678" key="search.everywhere.popup" timestamp="1595991119314">
       <screen x="0" y="0" width="1280" height="680" />
     </state>

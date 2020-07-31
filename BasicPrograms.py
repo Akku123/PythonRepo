@@ -7,6 +7,8 @@ while(i<=10):
         print(i, 'is odd')
     i=i+1
 
+    print("its a basic program")
+
 
 def add(a, b):
     return a + b
