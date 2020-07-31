@@ -42,6 +42,7 @@ print(g(7))
 
 a= lambda x,y:x+y
 print(a(3,7))
+print("Change")
 
 x= lambda a,b: (a+b)**2
 print(x)
