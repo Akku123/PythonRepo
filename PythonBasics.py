@@ -2,6 +2,7 @@
 a = 30
 b = 'Akash'
 print("Major Branch Commit")
+print("merge Conflict")
 print(a)
 print(b)
 # Integer
