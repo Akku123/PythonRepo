@@ -69,6 +69,7 @@ print(a.count('e'))
 print(a.index('l'))
 print(a[0:3])
 print(a[-4:-1])
+print(a[-1])
 print(a[:-1])
 print(a[::-1])
 print(a.upper())
@@ -80,7 +81,7 @@ if 'P' in a or 'Z' in a:
 
 # SET
 print("----------------------SET START FROm HERE-------------")
-firtsset = {1,2,3,4,5,6,6}
+firtsset = {0,1,9,11,2,3,4,5,6,6}
 secondset = {7,6,8,9}
 print(firtsset)
 

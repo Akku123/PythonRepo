@@ -13,6 +13,8 @@ def scope_of_var():
     print("Outer Var", var1)
 
 scope_of_var()
+
+
 s= 6
 def f():
     print(s)

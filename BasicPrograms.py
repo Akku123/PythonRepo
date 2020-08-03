@@ -10,15 +10,15 @@ while(i<=10):
     print("its a basic program")
 
 
-def add(a, b):
-    return a + b
-
-def subtract(a, b):
-    return a-b
-
-def divide(a, b):
-    return a/b
-
+# def add(a, b):
+#     return a + b
+#
+# def subtract(a, b):
+#     return a-b
+#
+# def divide(a, b):
+#     return a/b
+#
 
 print("Select operation.")
 print("1.Add")
@@ -47,17 +47,17 @@ while(a<10):
     print(a)
     a = a+1
 
-assert 5<4 , "5 is not less than 3"
+assert 5>4 , "5 is not less than 3"
 
-correctNum = 13
-choice = int(input("Please enter a number"))
-if choice < correctNum:
-        print("number is too small")
-elif choice > correctNum:
-        print("number is too large")
-elif choice == correctNum:
-        print("congratulations")
-
+# correctNum = 13
+# choice = int(input("Please enter a number"))
+# if choice < correctNum:
+#         print("number is too small")
+# elif choice > correctNum:
+#         print("number is too large")
+# elif choice == correctNum:
+#         print("congratulations")
+#
 
 fruits = ['Mangoes','Bananan','Apple']
 
@@ -65,17 +65,17 @@ for fruit in fruits:
     print("fruit in list is",fruit)
 
 print("no fruits left in the list")
-
-num = int(input("Please enter a Number"))
-fac = 1
-if num<0:
-    print("Number should be positive")
-elif num==0:
-    print("Factorial is 1")
-else:
-    for i in range(1, num+1):
-     fac = fac*i
-    print(fac)
-
+#
+# num = int(input("Please enter a Number"))
+# fac = 1
+# if num<0:
+#     print("Number should be positive")
+# elif num==0:
+#     print("Factorial is 1")
+# else:
+#     for i in range(1, num+1):
+#      fac = fac*i
+#     print(fac)
+#
 
 

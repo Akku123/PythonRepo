@@ -1,4 +1,4 @@
-def evenodd():
+def evenodd(self):
     num = int(input("Enter the number"))
     if (num%2 ==0):
         print("number is even")
@@ -40,6 +40,7 @@ print(cube(5))
 
 g= lambda y : y*y*y
 print(g(7))
+
 print("change 2")
 
 a= lambda x,y:x+y
@@ -58,7 +59,7 @@ def sum2(x,y):
 print(sum2(3,4))
 
 mylist = [1,2,3,4,5,6]
-newList= list(filter(lambda a:(a/3==2),mylist))
+newList = list(filter(lambda a:(a/3==2),mylist))
 newList2= list(filter(lambda a:(a/3!=2),mylist))
 newList3= list(map(lambda a:(a/3!=2),mylist))
 print(newList3)
