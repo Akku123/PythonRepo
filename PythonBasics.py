@@ -1,6 +1,7 @@
 # Variables
 a = 30
 b = 'Akash'
+print("Major Branch Commit")
 print(a)
 print(b)
 # Integer
