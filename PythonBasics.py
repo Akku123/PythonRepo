@@ -2,6 +2,7 @@
 a = 30
 b = 'Akash'
 print("Major Branch Commit")
+assert 5>4
 print(a)
 print(b)
 # Integer
