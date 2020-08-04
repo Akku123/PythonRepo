@@ -33,3 +33,7 @@ except FileNotFoundError as fnf_error:
 #     print(2>5)
 else:
     print("File is Present")
+
+
+thirdset = {"Akash", "Priyanka", "Aishwarya", "False"}
+print(sorted(thirdset,reverse = True))

@@ -47,7 +47,7 @@ while(a<10):
     print(a)
     a = a+1
 
-assert 5>4 , "5 is not less than 3"
+assert 5>4, "5 is not less than 3"
 
 # correctNum = 13
 # choice = int(input("Please enter a number"))
@@ -78,4 +78,18 @@ print("no fruits left in the list")
 #     print(fac)
 #
 
+
+num = open("D:/FileHandling/NewDoc.txt", "r")
+print(num.read())
+t = num.read()
+x = int(t)
+print(x)
+
+# x = print(type(t))
+# print(t)
+#
+# if t%2==0:
+#      print("Even")
+# else:
+#          print("odd")
 
