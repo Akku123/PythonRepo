@@ -2,7 +2,7 @@
 a = 30
 b = 'Akash'
 print("Major Branch Commit")
-assert 5>4
+print("merge Conflict")
 print(a)
 print(b)
 # Integer
@@ -85,6 +85,9 @@ if 'P' in a or 'Z' in a:
 print("----------------------SET START FROm HERE-------------")
 firtsset = {0,1,9,11,2,3,4,5,6,6}
 secondset = {7,6,8,9}
+thirdset = {"Akash","Priyanka","Aishwarya","False"}
+print(sorted(thirdset))
+print(sorted(thirdset,reverse = True))
 print(firtsset)
 
 list = ['q','u','u']
@@ -113,4 +116,16 @@ print(b['tuple'])
 print(b['set'])
 a.pop('name')
 print(a)
+
+name = "My age is 23"
+x= dict(name)
+print(x)
+
+
+
+
+
+
+
+
 
