@@ -74,8 +74,8 @@ else:
 
 
 email = "akash@gmail.com abc@123.com @ytr.com pop@09.com"
-
-print("emailmatches:", len(re.findall("\w._%+-]{1,20}@[\w.-]{1,20}.[A-Za-z]{2,3}",email)))
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+print("emailmatches:", len(re.findall("\w._%+-]{1,20}@[\w]{1,20}.[A-Za-z]{2,3}",email)))
 
 # Problem Statement : Try using List and Dict to print words and their frequency in above string
 string1 = "Twinkle twinkle little star. Star little galaxy."
@@ -94,16 +94,12 @@ Dict1 = {"G1":[1,2,3], "G2":[4,5,3]}
 Dict2 = {"S1": [1.1,1.2, 1.3], "S2": [2.1,2.2, 2.3]}
 #Users permissions
 Dict3 = {"G1": ["U1","U2","U3"], "G2":["U2","U3","U4","U5"]}
-
+# -----------------------TRY---------------------------------------------------------------
 Dict4 = {"C1" : Dict3['G1'], "C2":Dict3['G2'],'A1':Dict1['G1'],'A2':Dict1['G2'],'B1':Dict2['S1'],'B2':Dict2['S2']}
 Dict5 = {'C1' : Dict2['S1'],'C2':Dict2['S2']}
 print(Dict4['C1'])
-print(Dict4['C2'])
 print(Dict4['A1'])
-print(Dict4['A2'])
 print(Dict4['B1'])
-print(Dict4['B2'])
-
 print(Dict5['C1'])
 
 

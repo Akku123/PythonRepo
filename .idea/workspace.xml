@@ -3,10 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="4757d79d-d90a-4f24-8fbe-c55bc692559f" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BasicPrograms.py" beforeDir="false" afterPath="$PROJECT_DIR$/BasicPrograms.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ExceptionHandling.py" beforeDir="false" afterPath="$PROJECT_DIR$/ExceptionHandling.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FileHandling.py" beforeDir="false" afterPath="$PROJECT_DIR$/FileHandling.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_Functions.py" beforeDir="false" afterPath="$PROJECT_DIR$/test_Functions.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ClassandObject.py" beforeDir="false" afterPath="$PROJECT_DIR$/ClassandObject.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RegularExpression.py" beforeDir="false" afterPath="$PROJECT_DIR$/RegularExpression.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,10 +30,10 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyIntegratedToolsModulesConfigurable" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
-  <component name="RunManager" selected="Python tests.pytest for test_div_by_3_6.test_divisible_by_3">
-    <configuration name="FileHandling" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.Selenium">
+    <configuration name="ClassandObject" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonTest" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -47,7 +45,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/FileHandling.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ClassandObject.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -77,6 +75,48 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="Selenium" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PythonTest" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Selenium.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="sqlconnection" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PythonTest" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/sqlconnection.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="pytest for test_div_by_3_6.test_divisible_by_3" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
       <module name="PythonTest" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -92,43 +132,13 @@
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="pytest for test_square.test_sqrt" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
-      <module name="PythonTest" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="_new_keywords" value="&quot;&quot;" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_square.test_sqrt&quot;" />
-      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
-      <method v="2" />
-    </configuration>
-    <configuration name="pytest for test_square.testsquare" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
-      <module name="PythonTest" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="_new_keywords" value="&quot;&quot;" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_square.testsquare&quot;" />
-      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python tests.pytest for test_div_by_3_6.test_divisible_by_3" />
-        <item itemvalue="Python tests.pytest for test_square.testsquare" />
-        <item itemvalue="Python tests.pytest for test_square.test_sqrt" />
-        <item itemvalue="Python.FileHandling" />
+        <item itemvalue="Python.Selenium" />
+        <item itemvalue="Python.sqlconnection" />
         <item itemvalue="Python.RegularExpression" />
+        <item itemvalue="Python.ClassandObject" />
+        <item itemvalue="Python tests.pytest for test_div_by_3_6.test_divisible_by_3" />
       </list>
     </recent_temporary>
   </component>
@@ -162,22 +172,22 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="420" y="95" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1596173484724" />
-    <state width="1224" height="147" key="GridCell.Tab.0.bottom" timestamp="1596543958846">
+    <state width="1224" height="147" key="GridCell.Tab.0.bottom" timestamp="1596719156609">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1224" height="147" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1596543958846" />
-    <state width="1224" height="147" key="GridCell.Tab.0.center" timestamp="1596543958846">
+    <state width="1224" height="147" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1596719156609" />
+    <state width="1224" height="147" key="GridCell.Tab.0.center" timestamp="1596719156609">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1224" height="147" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1596543958846" />
-    <state width="1224" height="147" key="GridCell.Tab.0.left" timestamp="1596543958846">
+    <state width="1224" height="147" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1596719156609" />
+    <state width="1224" height="147" key="GridCell.Tab.0.left" timestamp="1596719156608">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1224" height="147" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1596543958846" />
-    <state width="1224" height="147" key="GridCell.Tab.0.right" timestamp="1596543958846">
+    <state width="1224" height="147" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1596719156608" />
+    <state width="1224" height="147" key="GridCell.Tab.0.right" timestamp="1596719156609">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1224" height="147" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1596543958846" />
+    <state width="1224" height="147" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1596719156609" />
     <state width="1224" height="185" key="GridCell.Tab.1.bottom" timestamp="1596476034713">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
@@ -194,14 +204,14 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state width="1224" height="185" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" timestamp="1596476034713" />
-    <state x="142" y="0" key="SettingsEditor" timestamp="1596541779166">
+    <state x="142" y="0" key="SettingsEditor" timestamp="1596687296387">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="142" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1596541779166" />
-    <state x="336" y="164" key="com.intellij.ide.util.TipDialog" timestamp="1596518324203">
+    <state x="142" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1596687296387" />
+    <state x="336" y="164" key="com.intellij.ide.util.TipDialog" timestamp="1596722495604">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="336" y="164" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1596518324203" />
+    <state x="336" y="164" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1596722495604" />
     <state x="303" y="1" width="672" height="678" key="search.everywhere.popup" timestamp="1595991119314">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
