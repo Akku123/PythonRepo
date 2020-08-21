@@ -1,9 +1,9 @@
 import pyodbc
 
-server = '20.20.1.20'
-database = 'X941Q1_DERIVE'
-username = 'agupta'
-password = 'Admin@12345678'
+server = 'X.X.X.X'
+database = 'X'
+username = 'X'
+password = 'X'
 print("X")
 
 
@@ -12,7 +12,7 @@ conn = pyodbc.connect(
 def read(conn):
     print("Read")
     cursor = conn.cursor()
-    cursor.execute("SELECT * FROM GTN_TYPE_LOOKUP")
+    cursor.execute("X")
     for row in cursor:
         print(row)
         print()
